@@ -1,0 +1,6 @@
+<script>start("c:\\Users\\mouha\\Desktop\\samaflix-v2\\proxy-uqload\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("netlify","netlify",1,0,"0 B",1742711673,"3/23/25, 6:34:33 AM");</script>
+<script>addRow("public","public",1,0,"0 B",1742711704,"3/23/25, 6:35:04 AM");</script>
+<script>addRow("netlify.toml","netlify.toml",0,285,"285 B",1742711695,"3/23/25, 6:34:55 AM");</script>
+<script>addRow("package.json","package.json",0,281,"281 B",1742711650,"3/23/25, 6:34:10 AM");</script>

@@ -1,0 +1,14 @@
+{
+  "name": "proxy-uqload",
+  "version": "1.0.0",
+  "description": "Proxy pour uqload",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@netlify/functions": "^2.6.0",
+    "node-fetch": "^3.3.2"
+  }
+} 
